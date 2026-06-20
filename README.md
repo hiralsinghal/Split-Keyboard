@@ -45,9 +45,13 @@ This is the case for the right side of the keyboard.
 
 ![right-keyboard](assets/right-side-case.png)
 
+## Firmware
+
+It uses ZMK firmware because of its support for split keyboards. Each controller runs their own firmware but they make it work as a single device. The files are in the firmware folder.
+
 ## Zine
 
-This was made in Figma. Kinda fun to create it.
+This was made in Figma. I enjoyed making it kinda.
 
 ![zine](assets/zine.png)
 
