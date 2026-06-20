@@ -24,6 +24,11 @@ A split-keyboard!
 
 ## Zine
 
+This was made in Figma. Kinda fun to create it.
+
+![zine](assets/zine.png)
+
+
 ## Why did I make it?
 
 I made it cause it seemed like a cool project. This was made for [Fallout](fallout.hackclub.com).
