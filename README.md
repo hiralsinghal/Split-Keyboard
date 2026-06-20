@@ -49,12 +49,21 @@ This is the case for the right side of the keyboard.
 
 It uses ZMK firmware because of its support for split keyboards. Each controller runs their own firmware but they make it work as a single device. The files are in the firmware folder.
 
+## BOM
+
+| Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL |
+| --- | --- |---| --- |--- | --- |
+| PCB | PCB | 5 | 3.32 | 16.6 | |
+| Seeed Studio XIAO BLE nRF52840 |MCU |2|12.2|24.4|https://robu.in/product/seeed-studio-xiao-ble-nrf52840/ |
+| Akko V3 Lavender Purple Pro Switch (Pack of 45)| Keyboard Switches | 1 | 11.65 | 11.65 | https://stackskb.com/store/akko-v3-lavender-purple-pro-switch-pack-of-45/ |
+| Veekos Gradient Keycaps (Cherry Profile) (135 keys)| Keycaps | 1 | 13.77 | 13.77 | https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/?attribute_pa_colour=black |
+| Total | | | |66.42| |
+
 ## Zine
 
 This was made in Figma. I enjoyed making it kinda.
 
 ![zine](assets/zine.png)
-
 
 ## Why did I make it?
 
