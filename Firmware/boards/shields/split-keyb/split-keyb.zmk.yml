@@ -1,0 +1,11 @@
+file_format: "1"
+id: split_keyb
+name: Split Keyb
+type: shield
+url: https://github.com/hiralsinghal/Split-Keyboard
+requires: [pro_micro] 
+features:
+  - keys
+siblings:
+  - split_keyb_left
+  - split_keyb_right

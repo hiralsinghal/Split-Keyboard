@@ -1,0 +1,16 @@
+if SHIELD_SPLIT_KEYB_LEFT
+
+# Name must be less than 16 characters long!
+config ZMK_KEYBOARD_NAME
+    default "Split Keyb"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_SPLIT_KEYB_LEFT || SHIELD_SPLIT_KEYB_RIGHT
+config ZMK_SPLIT
+    default y
+
+endif
