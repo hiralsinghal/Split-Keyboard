@@ -9,6 +9,10 @@ A split-keyboard made for ergnomic comfort. It has 42 keys, each side having 21.
 
 ## Schematic
 
+You have draw hierarchical sheets and set the sheetname respectly whereas the sheet file should be named the same for both so that whatever symbols you place in one of them are copied into the other without you switching sheets constantly. This wouldnt impact the way footprints are imported into the PCB editor.
+
+![schematic](assets/schematic.png)
+
 ### Left Side
 
 ![left side schematic](assets/left-schematic.png)
@@ -50,4 +54,4 @@ This was made in Figma. Kinda fun to create it.
 
 ## Why did I make it?
 
-I made it cause it seemed like a cool project. This was made for [Fallout](fallout.hackclub.com).
+I made it cause it seemed like a cool project. The routing was tough ngl. Each footprint alligned differently and so many switches and diodes. Its like each project is improving my skills consistently. I now know how to route better (kinda) This was made for [Fallout](fallout.hackclub.com).
