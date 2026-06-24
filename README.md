@@ -31,7 +31,7 @@ The source files are in the PCB folder.
 
 This was made in Fusion, using the PCB as reference. It has cutouts for switches, keys and XIAO ports. The source file can be found in the folder CAD.
 
-1[case](assets/case.png)
+![case](assets/case.png)
 
 ### Left
 
